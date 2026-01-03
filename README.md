@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **yadavgagan61@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://x.com/gagan_deep02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gagan__0108" height="30" width="40" /></a>
 <a href="https://instagram.com/gagan__0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gagan_0108" height="30" width="40" /></a>
